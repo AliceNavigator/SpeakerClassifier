@@ -7,7 +7,7 @@ SpeakerClassifier is a lightweight tool that leverages speaker verification(ERes
 
 1. Clone this repository:
    ```
-   git clone https://github.com/AliceNavigator/Navigator-Audio-Toolkit.git
+   git clone https://github.com/AliceNavigator/SpeakerClassifier.git
    ```
 2. Install dependencies:
    ```
